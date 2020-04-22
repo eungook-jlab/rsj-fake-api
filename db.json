@@ -1,0 +1,45 @@
+{
+  "join": {
+    "info": {
+      "SID": "gBizOpera",
+      "AID": "mbJoin",
+      "rtnCode": "S000",
+      "rtnMsg": "성공",
+      "timeStamp": "1587534000311",
+      "rtnDateTime": "20200422144000"
+    },
+    "data": {
+      "userMobile": "01012345678",
+      "userName": "홍길동",
+      "userEmail": "honggil@dong.com",
+      "userCode": "ABCDEFG",
+      "UDID": "abc1234567"
+    }
+  },
+  "joinConfirm": {
+    "info": {
+      "SID": "gBizOpera",
+      "AID": "joinRst",
+      "rtnCode": "S000",
+      "rtnMsg": "성공",
+      "timeStamp": "1587534000311",
+      "rtnDateTime": "20200422144000"
+    },
+    "data": {
+      "UDID": "abc1234567"
+    }
+  },
+  "editConfirm": {
+    "info": {
+      "SID": "gBizOpera",
+      "AID": "mbEdit",
+      "rtnCode": "S000",
+      "rtnMsg": "성공",
+      "timeStamp": "1587534000311",
+      "rtnDateTime": "20200422144000"
+    },
+    "data": {
+      "UDID": "abc1234567"
+    }
+  }
+}
