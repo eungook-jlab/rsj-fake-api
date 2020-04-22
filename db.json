@@ -12,8 +12,17 @@
       "userMobile": "01012345678",
       "userName": "홍길동",
       "userEmail": "honggil@dong.com",
-      "userCode": "ABCDEFG",
-      "UDID": "abc1234567"
+      "idRows": "2",
+      "UDIDS": [
+        {
+          "UDID": "abc12345678",
+          "userRegDate": "20191230"
+        },
+        {
+          "UDID": "abc12345679",
+          "userRegDate": "20200302"
+        }
+      ]
     }
   },
   "joinConfirm": {
