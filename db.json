@@ -15,11 +15,11 @@
       "idRows": "2",
       "UDIDS": [
         {
-          "UDID": "abc12345678",
+          "UDID": "abc0000001",
           "userRegDate": "20191230"
         },
         {
-          "UDID": "abc12345679",
+          "UDID": "abc0000002",
           "userRegDate": "20200302"
         }
       ]
@@ -35,7 +35,7 @@
       "rtnDateTime": "20200422144000"
     },
     "data": {
-      "UDID": "abc1234567"
+      "UDID": "abc0000001"
     }
   },
   "editConfirm": {
@@ -48,7 +48,7 @@
       "rtnDateTime": "20200422144000"
     },
     "data": {
-      "UDID": "abc1234567"
+      "UDID": "abc0000001"
     }
   }
 }
